@@ -1,6 +1,8 @@
 ## One Lint
 
-Tada 🎉! An easy way to add ESLint & Prettier into your project.
+Are you lazy to add eslint & prettier in your every project ?
+
+Tada 🎉! Here is an easy way to add ESLint & Prettier into your project.
 
 ### How to use
 
