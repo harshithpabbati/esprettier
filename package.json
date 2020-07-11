@@ -1,0 +1,21 @@
+{
+  "name": "one-lint",
+  "version": "0.0.1",
+  "description": "An easy way to add eslint and prettier config to your project",
+  "author": "Harshith Pabbati <pabbatiharshith@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshithpabbati/one-lint.git"
+  },
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "one-lint": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0",
+    "figlet": "^1.4.0",
+    "node-run-cmd": "^1.0.1"
+  }
+}
