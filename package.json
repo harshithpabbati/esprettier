@@ -3,10 +3,19 @@
   "version": "0.0.1",
   "description": "An easy way to add eslint and prettier config to your project",
   "author": "Harshith Pabbati <pabbatiharshith@gmail.com>",
+  "keywords": [
+    "eslint",
+    "prettier",
+    "one lint"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harshithpabbati/one-lint.git"
   },
+  "bugs": {
+    "url": "https://github.com/harshithpabbati/one-lint/issues"
+  },
+  "homepage": "https://github.com/harshithpabbati/one-lint",
   "license": "MIT",
   "preferGlobal": true,
   "bin": {
