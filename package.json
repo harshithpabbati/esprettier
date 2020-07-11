@@ -1,25 +1,27 @@
 {
-  "name": "one-lint",
+  "name": "esprettier",
   "version": "0.0.1",
   "description": "An easy way to add eslint and prettier config to your project",
   "author": "Harshith Pabbati <pabbatiharshith@gmail.com>",
   "keywords": [
     "eslint",
     "prettier",
-    "one lint"
+    "one lint",
+    "easy lint",
+    "esprettier-lint"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harshithpabbati/one-lint.git"
+    "url": "git+https://github.com/harshithpabbati/esprettier.git"
   },
   "bugs": {
-    "url": "https://github.com/harshithpabbati/one-lint/issues"
+    "url": "https://github.com/harshithpabbati/esprettier/issues"
   },
-  "homepage": "https://github.com/harshithpabbati/one-lint",
+  "homepage": "https://github.com/harshithpabbati/esprettier",
   "license": "MIT",
   "preferGlobal": true,
   "bin": {
-    "one-lint": "./bin/index.js"
+    "esprettier": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "^4.1.0",

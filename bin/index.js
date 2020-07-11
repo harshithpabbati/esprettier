@@ -6,7 +6,7 @@ const figlet = require('figlet');
 const eslint = require('../lib/eslint');
 const prettier = require('../lib/prettier');
 
-console.log(chalk.green(figlet.textSync('One Lint', { horizontalLayout: 'full' })));
+console.log(chalk.green(figlet.textSync('ESPrettier', { horizontalLayout: 'full' })));
 program
   .version('0.0.1')
   .description('An easy way to add eslint and prettier in your project')
